@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\duyti\\OneDrive\\Máy tính\\BTBackEnd\\Tuan1\\Tuan1.csproj": {}
+    "c:\\Users\\duyti\\OneDrive\\Máy tính\\BTBackEnd\\Tuan1\\Tuan1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\duyti\\OneDrive\\Máy tính\\BTBackEnd\\Tuan1\\Tuan1.csproj": {
+    "c:\\Users\\duyti\\OneDrive\\Máy tính\\BTBackEnd\\Tuan1\\Tuan1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\duyti\\OneDrive\\Máy tính\\BTBackEnd\\Tuan1\\Tuan1.csproj",
+        "projectUniqueName": "c:\\Users\\duyti\\OneDrive\\Máy tính\\BTBackEnd\\Tuan1\\Tuan1.csproj",
         "projectName": "Tuan1",
-        "projectPath": "C:\\Users\\duyti\\OneDrive\\Máy tính\\BTBackEnd\\Tuan1\\Tuan1.csproj",
+        "projectPath": "c:\\Users\\duyti\\OneDrive\\Máy tính\\BTBackEnd\\Tuan1\\Tuan1.csproj",
         "packagesPath": "C:\\Users\\duyti\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\duyti\\OneDrive\\Máy tính\\BTBackEnd\\Tuan1\\obj\\",
+        "outputPath": "c:\\Users\\duyti\\OneDrive\\Máy tính\\BTBackEnd\\Tuan1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\duyti\\AppData\\Roaming\\NuGet\\NuGet.Config"
