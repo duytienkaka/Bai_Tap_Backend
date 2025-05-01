@@ -1,0 +1,5 @@
+C:\Users\duyti\OneDrive\Máy tính\Thư mục mới\obj\Debug\net9.0\Thư mục mới.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duyti\OneDrive\Máy tính\Thư mục mới\obj\Debug\net9.0\Thư mục mới.AssemblyInfoInputs.cache
+C:\Users\duyti\OneDrive\Máy tính\Thư mục mới\obj\Debug\net9.0\Thư mục mới.AssemblyInfo.cs
+C:\Users\duyti\OneDrive\Máy tính\Thư mục mới\obj\Debug\net9.0\Thư mục mới.csproj.CoreCompileInputs.cache
+C:\Users\duyti\OneDrive\Máy tính\Thư mục mới\obj\Debug\net9.0\Thư mục mới.sourcelink.json
