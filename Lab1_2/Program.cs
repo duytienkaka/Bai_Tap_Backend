@@ -1,6 +1,6 @@
 ﻿using System;
 using System.ComponentModel;
-public class Lab2
+public class Lab1_2
 {
     public class CheckAmDuongException : Exception
     {

@@ -1,13 +1,12 @@
 using System;
-public class CheckAmDuongException : Exception
+public class Lab1_1
+{
+    public class CheckAmDuongException : Exception
 {
     public CheckAmDuongException(string message) : base(message)
     {
     }
 }
-
-public class Lab1
-{
     static bool snt(int n)
     {
         if (n < 2) return false;

@@ -31,22 +31,22 @@ class Program
                         Console.Write($"Nhap phan tu thu {i + 1}: ");
                         arr1[i] = int.Parse(Console.ReadLine() ?? "0");
                     }
-                    Lab2.bai1(arr1);
+                    Lab1_2.bai1(arr1);
                     break;
                 case 2:
-                    Lab2.bai2();
+                    Lab1_2.bai2();
                     break;
                 case 3:
-                    Lab2.bai3();
+                    Lab1_2.bai3();
                     break;
                 case 4:
-                    Lab2.bai4();
+                    Lab1_2.bai4();
                     break;
                 case 5:
-                    Lab2.bai5();
+                    Lab1_2.bai5();
                     break;
                 case 6:
-                    Lab2.bai6();
+                    Lab1_2.bai6();
                     break;
                 default:
                     Console.WriteLine("Lua chon khong hop le!");

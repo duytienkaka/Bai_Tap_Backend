@@ -1,4 +1,4 @@
-# Bài tập này
+# Bài tập Môn Lập Trình Back-End
 
 ## Mô tả
 Dự án này là một bài tập thực hành được xây dựng bằng Visual Studio. Nó bao gồm một giải pháp (`.sln`) và một dự án con (`Lab1_1`) được viết bằng ngôn ngữ C#. Mục tiêu của bài tập là giúp người dùng làm quen với việc sử dụng Visual Studio để phát triển ứng dụng .NET.
